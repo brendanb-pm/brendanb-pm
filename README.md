@@ -1,3 +1,6 @@
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6a3c7bb65d8dee437e51b909?variant=dark&roadmaps=product-manager" alt="roadmap.sh"/></a>
+
 https://roadmap.sh/card/tall/6a3c7bb65d8dee437e51b909?variant=dark&roadmaps=product-manager
 <!--
 **brendanb-pm/brendanb-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
